@@ -1,4 +1,4 @@
-### Hi there, I'm Luiz Filipe, but u can call me Lipe, i like it. 👋
+### Hi there, I'm Luiz Filipe, but u can call me Lipe, I like it. 👋
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
