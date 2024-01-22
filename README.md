@@ -4,13 +4,15 @@
 
 Since childhood, my passion for technology and games tinkering with computers and building websites. This passion steered me toward graduating as a analysis and system development, propelling my perpetual quest for self-improvement and the pursuit of new knowledge.
 
-My role as a Full Stack software developer predominantly involves working with Grails, Groovy, and Javascript.
+My role as a Full Stack software developer predominantly involves working with Grails, Groovy, Javascript, Typescript and VueJs.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="groovy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="groovy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-plain.svg">
   <img align="center" alt="grails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-plain.svg">
+  <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
   
   ##
